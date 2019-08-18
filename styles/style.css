@@ -60,7 +60,7 @@ body {
   margin-right: .7rem; }
 
 .header {
-  background-image: linear-gradient(rgba(185, 0, 0, 0.712), rgba(173, 10, 10, 0.692)), url("./../../../images/header-background.jpg");
+  background-image: linear-gradient(rgba(185, 0, 0, 0.712), rgba(173, 10, 10, 0.692)), url("./../images/header-background.jpg");
   height: 100vh;
   background-attachment: fixed; }
   .header__hero-content {
@@ -215,7 +215,7 @@ body {
     display: flex; }
   .history__img--container {
     width: 50%;
-    background-image: url("../../../images/header-background.jpg");
+    background-image: url("../images/header-background.jpg");
     background-attachment: fixed;
     margin-right: 2rem;
     clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%); }
